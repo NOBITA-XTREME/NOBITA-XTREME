@@ -1,9 +1,8 @@
 - 👋 Hi, I’m NOBITA FROM XTREME RP
 - 🌱 I’m currently learning pawno & Frontend Web Development
-- 💞️ Team Work With My Friend @henry
+- 💞️ Team Work With My Friend @henryzx007
 - 📫 Contact me through click2harish18@gmail.com
-- 😄 Pronouns: Nobi_Nobita
-- ⚡ Quote : You Got Dreams To Chase, Not To Impress
+- ⚡ Team X 
 
 <!---
 NOBITA-XTREME/NOBITA-XTREME is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
